@@ -93,6 +93,7 @@
 }
 
 li {
+  margin-top: 20px;
   list-style: none;
   margin: 10px 30px;
   display: inline-block;
